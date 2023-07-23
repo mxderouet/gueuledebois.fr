@@ -61,7 +61,7 @@ body {
   }
   
   button {
-    background-color: #007bff;
+    background-color: #ff0000;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -155,5 +155,6 @@ body {
   
   .checkout-icon {
     flex: 0; /* Ensure checkout icon doesn't expand */
+    padding-right: 1em;
   }
   
