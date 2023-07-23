@@ -138,7 +138,7 @@ body {
   /* Apply flexbox to .tee class to display T-shirts horizontally on desktop */
   .tee {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
   }
   
   /* Media query for mobile devices */
